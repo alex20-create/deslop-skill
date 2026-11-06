@@ -1,6 +1,6 @@
 # deslop
 
-A Claude skill that cleans AI-generated drafts in English and Spanish so they can be used as the writer's own text. It removes chat residue, deals with invented or unsupported content, fixes spelling and style-guide errors, and tones down stock AI habits only where they repeat or say nothing.
+A Claude skill that cleans AI-generated drafts in English and Spanish. It removes chat residue, deals with invented or unsupported content, fixes spelling and style-guide errors, and tones down stock AI habits only where they repeat or say nothing.
 
 It keeps what the writer chose: the language variety (British or American English, Spanish from Spain or Latin America), the tone, the genre and the register.
 
